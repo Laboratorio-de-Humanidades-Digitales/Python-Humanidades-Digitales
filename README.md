@@ -1,6 +1,6 @@
----
-description: Lorem lorem
----
-
 # Introducción al Curso
 
+```python
+// Comentario
+print("Hello World")
+```
