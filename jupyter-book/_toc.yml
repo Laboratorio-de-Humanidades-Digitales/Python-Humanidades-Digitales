@@ -1,0 +1,7 @@
+format: jb-book
+root: index
+title: Fundamentos de Python para Humanidades Digitales
+parts:
+  - caption: Día 2
+    chapters:
+    - file: Notebooks/Dia_2_trabajando_con_datos_parte_I
